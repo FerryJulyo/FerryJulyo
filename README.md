@@ -5,7 +5,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FerryJulyo&theme=dracula)
 
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=FerryJulyo&style=flat-square)
+<img src="https://profile-counter.glitch.me/FerryJulyo/count.svg" />
 ![GitHub followers](https://img.shields.io/github/followers/FerryJulyo?label=Follow&style=social)
 ![Repos badge](https://img.shields.io/badge/Repos-10-blue)
 
