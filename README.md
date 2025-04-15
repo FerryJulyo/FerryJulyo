@@ -29,7 +29,7 @@
 
 ### 👋 Hi there, I’m Ferry Julyo
 - 🔭 I’m currently working on  PT. Imperium Happy Puppy
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Anything
 - 👯 I’m looking to collaborate on backend systems
 
 ### 📫 Connect with me
