@@ -15,10 +15,15 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-aFzLDiRodJ8Wyve_gVCByj6i3-wDtK9pNQ&s" width="40"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg" width="40"/>
   <img src="https://images.icon-icons.com/836/PNG/512/Wordpress_icon-icons.com_66780.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1024px-Unity_Technologies_logo.svg.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="40"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" width="40"/>
 </p>
 
 
